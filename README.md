@@ -24,7 +24,7 @@ A clean, responsive UPI money transfer web application built with **HTML5, CSS3,
 
 ```text
 demo/
-├── demo.html    # Main user interface & PhonePe layout
+├── index.html   # Main user interface & PhonePe layout
 ├── demo.css     # Styling, modern card UI, animations & color tokens
 ├── demo.js      # Core logic, validation, Web Audio chime & SMS trigger
 └── README.md    # Documentation and usage guide
@@ -35,10 +35,10 @@ demo/
 ## 🛠️ How to Run
 
 1. **On PC / Laptop:**
-   - Double-click [demo.html](file:///d:/IST/demo/demo.html) or open it directly in any modern web browser (Google Chrome, Microsoft Edge, Firefox, Safari).
+   - Double-click [index.html](file:///d:/IST/demo/index.html) or open it directly in any modern web browser (Google Chrome, Microsoft Edge, Firefox, Safari).
 
 2. **On Mobile Phone (Recommended for Direct SMS):**
-   - Open [demo.html](file:///d:/IST/demo/demo.html) in your mobile browser (e.g., Chrome on Android or Safari on iOS).
+   - Open [index.html](file:///d:/IST/demo/index.html) in your mobile browser (e.g., Chrome on Android or Safari on iOS).
    - Enter a 10-digit mobile number and transfer amount.
    - Tap **Pay & Send SMS**.
    - Your phone will automatically launch its native **Messages** app with the recipient and text ready to send.
